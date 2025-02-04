@@ -107,7 +107,6 @@ h2 {
   color: #333;
 }
 
-
 .input-group {
   margin-bottom: 20px;
   text-align: left;
@@ -164,4 +163,5 @@ h2 {
 .forgot-password a:hover {
   color: #3a7bd5;
 }
+
 </style>
